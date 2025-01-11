@@ -10,8 +10,12 @@ Este programa permite analisar, procurar clientes e jogos e gerenciar alguns asp
 ### 🔧 Objectivos
 
 - Desenvolver um programa que atenda aos pré-requisitos definidos no enunciado.
+
 - O programa ser funcional e não apresentar erros de compilação.
+
 - O projeto deve ser implementado em linguagem Java apenas para leitura na consola.
+
+
 
 ---
 
@@ -29,5 +33,6 @@ Projecto elaborado por Sofia Santos no âmbito da disciplina de Programação de
 CESAE, 2025
 
 - IntelliJ
+
 – tempo: 2 semanas
 
