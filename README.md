@@ -11,6 +11,8 @@ Este programa permite analisar, procurar clientes e jogos e gerenciar alguns asp
 
 - Desenvolver um programa que atenda aos pré-requisitos definidos no enunciado.
 
+- Evitar métodos e fazer o projecto com base em algoritmia.
+
 - O programa ser funcional e não apresentar erros de compilação.
 
 - O projeto deve ser implementado em linguagem Java apenas para leitura na consola.
