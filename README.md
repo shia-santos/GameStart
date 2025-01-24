@@ -1,40 +1,47 @@
-# Software   ––   GameStart
-
-### 📋 Notas sobre este projecto
-
-Foi proposto a criação de um software em Java para uma loja de jogos chamada GameStart. 
-Este programa permite analisar, procurar clientes e jogos e gerenciar alguns aspectos do negócio. 
-
----
-
-### 🔧 Objectivos
-
-- Desenvolver um programa que atenda aos pré-requisitos definidos no enunciado.
-
-- Evitar métodos e fazer o projecto com base em algoritmia.
-
-- O programa ser funcional e não apresentar erros de compilação.
-
-- O projeto deve ser implementado em linguagem Java apenas para leitura na consola.
+# GameStart — Software for Game Store Management 🎮
 
 
+## 📋 Project Notes
+
+The GameStart software was developed in Java for a game store.
+This program allows users to analyze, search for clients and games, and manage various aspects of the business.
 
 ---
 
-### 🚀 Navegação recomendada
+## 🚀 Recommended User Journey
 
-A password para entrar no menu Administrador é:
-
+The password to access the Administrator menu is:
 pass123
 
 ---
 
-#### ✒️ Contexto e Autoria
+## 🔧 Project Objectives
 
-Projecto elaborado por Sofia Santos no âmbito da disciplina de Programação de Computadores Estruturada (PCE).
-CESAE, 2025
+- Develop a program that meets the requirements outlined in the project statement.
+- Avoid the use of methods and base the project on algorithmic logic.
+- Ensure the program is functional and free of compilation errors.
+- The program should be implemented in Java, with output displayed in the console.
 
-- IntelliJ
+---
 
-– tempo: 2 semanas
+## 🛠️ Technologies Used
+
+- Java: Programming language for the software.
+- IntelliJ: Integrated Development Environment (IDE) used for coding.
+
+---
+
+## 🎯 Purpose
+
+This project was developed as part of the Structured Computer Programming (PCE) course at CESAE in 2025.
+It was created over two weeks to practice Java programming, focusing on algorithmic development and console-based interaction.
+
+---
+
+## 👤 Author
+
+Sofia Santos
+
+GitHub: https://github.com/shia-santos
+LinkedIn: www.linkedin.com/in/shiasantos
 
